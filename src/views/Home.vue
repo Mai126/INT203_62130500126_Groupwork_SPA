@@ -48,6 +48,7 @@ export default {
           },
           body: JSON.stringify({
             name: item.name,
+            photo: item.photo,
             price: item.price,
           }),
         })

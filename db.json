@@ -10,18 +10,21 @@
   ],
   "carts": [
     {
-      "id": 1,
-      "name": "4U2 EYESHADOW PALETTE",
-      "price": "199"
-    },
-    {
       "name": "4U2 CURL UP x EVEANDBOY",
+      "photo": "curlup.jpg",
       "price": "99",
-      "id": 2
+      "id": 1
     },
     {
       "name": "4U2 MINERAL TINT OIL",
+      "photo": "tint_oil.jpg",
       "price": "179",
+      "id": 2
+    },
+    {
+      "name": "4U2 CURL UP x EVEANDBOY",
+      "photo": "curlup.jpg",
+      "price": "99",
       "id": 3
     }
   ],
