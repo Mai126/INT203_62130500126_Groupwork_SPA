@@ -22,7 +22,7 @@ export default {
         async getInformations(){
             try{
                 const res = await fetch(this.url)
-                const data = await res.json()
+                const data = res.json()
                 return data
             }catch(error){
                 console.log(`Could not get informations! ${error}`)
