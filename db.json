@@ -1,52 +1,66 @@
 {
-  "informations": [{
+  "informations": [
+    {
       "firstname": "Noparat",
       "lastname": "Prasongdee",
       "username": "saimai",
       "address": "123 street1 Bangkok 1230",
       "id": 1
-  }],
-  "carts": [{
+    }
+  ],
+  "carts": [
+    {
       "id": 1,
       "name": "4U2 EYESHADOW PALETTE",
       "price": "199"
-
-  }],
-  "stocks": [{
-          "id": 1,
-          "name": "4U2 EYESHADOW PALETTE",
-          "price": "199",
-          "photo": "eyepal.jpg"
-      },
-      {
-          "id": 2,
-          "name": "4U2 CURL UP x EVEANDBOY",
-          "price": "99",
-          "photo": "curlup.jpg"
-      },
-      {
-          "id": 3,
-          "name": "4U2 MINERAL TINT OIL",
-          "price": "179",
-          "photo": "tint_oil.jpg"
-      },
-      {
-          "id": 4,
-          "name": "4U2 MATTE BLUSH ON MADE BY 4U2",
-          "price": "149",
-          "photo": "mbm.jpg"
-      },
-      {
-          "id": 5,
-          "name": "4U2 SHIMMER BLUSH ON MADE BY 4U2",
-          "price": "149",
-          "photo": "sbm.jpg"
-      },
-      {
-          "id": 6,
-          "name": "4U2 MIRROR MADE BY 4U2",
-          "price": "99",
-          "photo": "mrr.jpg"
-      }
+    },
+    {
+      "name": "4U2 CURL UP x EVEANDBOY",
+      "price": "99",
+      "id": 2
+    },
+    {
+      "name": "4U2 MINERAL TINT OIL",
+      "price": "179",
+      "id": 3
+    }
+  ],
+  "stocks": [
+    {
+      "id": 1,
+      "name": "4U2 EYESHADOW PALETTE",
+      "price": "199",
+      "photo": "eyepal.jpg"
+    },
+    {
+      "id": 2,
+      "name": "4U2 CURL UP x EVEANDBOY",
+      "price": "99",
+      "photo": "curlup.jpg"
+    },
+    {
+      "id": 3,
+      "name": "4U2 MINERAL TINT OIL",
+      "price": "179",
+      "photo": "tint_oil.jpg"
+    },
+    {
+      "id": 4,
+      "name": "4U2 MATTE BLUSH ON MADE BY 4U2",
+      "price": "149",
+      "photo": "mbm.jpg"
+    },
+    {
+      "id": 5,
+      "name": "4U2 SHIMMER BLUSH ON MADE BY 4U2",
+      "price": "149",
+      "photo": "sbm.jpg"
+    },
+    {
+      "id": 6,
+      "name": "4U2 MIRROR MADE BY 4U2",
+      "price": "99",
+      "photo": "mrr.jpg"
+    }
   ]
 }
